@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Restaurtant Chatbot App</string>
+    <string name="title_home">Home</string>
+    <string name="title_home_offer">Offers</string>
+    <string name="title_home_announcement">Announcements</string>
+    <string name="title_home_ramadan">Ramadan Kareem to everyone!</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_chatbot">Chatbot</string>
+    <string name="title_about">
+        About us
+    </string>
+    <string name="title_about_info">  At FastnForYou,we take pride in making the best meals for our customers.
+        We select only the best ingrediants and make sure every dish is cooked to perfection.</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
