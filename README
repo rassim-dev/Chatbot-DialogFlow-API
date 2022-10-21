@@ -1,0 +1,3 @@
+Important Note: Some sensitive credentials had to be removed from this upload for obvious security reasons under the file name "raw" and therefore you'll need your own raw file which google documents how to get it. If you accidently upload those credentials anywhere on the internet, Google will get very mad :)
+
+This is an implementation of Google's Dialogflow REST API into a mobile application built from scratch using Kotlin and Java.
